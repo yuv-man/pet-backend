@@ -4,7 +4,7 @@ const app = express();
 const router = express.Router()
 const pets = require('./routes/pets')
 const authRoute = require('./routes/auth')
-const port = process.env.PORT || 8080
+const port = process.env.PORT || 80
 const cors = require('cors')
 const mongoose = require('mongoose')
 
