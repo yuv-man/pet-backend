@@ -1,0 +1,93 @@
+[
+  {
+    "dogName": "Pappy",
+    "status": "available",
+    "height": "70",
+    "weight": "15",
+    "hypoallergenic": "no",
+    "dietary": "none",
+    "comment": "Pappy is an amazing dog",
+    "dogType": "vizsla",
+    "dogGender": "male",
+    "dogId": "94fb55ab-2485-413f-92fa-d72ace592eda",
+    "picture": "petImages/avatar-1608566175443.jpg"
+  },
+  {
+    "dogName": "Rocky",
+    "status": "adopt",
+    "height": "30",
+    "weight": "5",
+    "hypoallergenic": "no",
+    "dietary": "none",
+    "comment": "Rocky is the qutiest dog",
+    "dogType": "shiba inu",
+    "dogGender": "male",
+    "dogId": "b8949bd3-890a-45b1-a433-088a550bc8f9",
+    "picture": "petImages/avatar-1608573987781.jpg"
+  },
+  {
+    "dogName": "Frenchie",
+    "status": "adopt",
+    "height": "50",
+    "weight": "10",
+    "hypoallergenic": "no",
+    "dietary": "none",
+    "comment": "Frenchie is extremly friendly and he is a really good boy, he is perfect as a family pet.",
+    "dogType": "french buldog",
+    "dogGender": "male",
+    "dogId": "53063649-4502-413c-a83f-c77daee73c83",
+    "picture": "petImages/avatar-1608580690897.jpg"
+  },
+  {
+    "dogName": "Kitta",
+    "status": "foster",
+    "height": "60",
+    "weight": "20",
+    "hypoallergenic": "no",
+    "dietary": "",
+    "comment": "Kitta is very gentel and she is a good with kids, she is lovely and loyal dog.",
+    "dogType": "akita",
+    "dogGender": "female",
+    "dogId": "72b03d02-dc3a-4907-9345-5cd957ecaa2f",
+    "picture": "petImages/avatar-1608580807953.jpg"
+  },
+  {
+    "dogName": "Biggy G",
+    "status": "available",
+    "height": "30",
+    "weight": "7",
+    "hypoallergenic": "no",
+    "dietary": "none",
+    "comment": "just the coolest dog",
+    "dogType": "beagle",
+    "dogGender": "male",
+    "dogId": "61e6b9dc-ca39-4153-857d-8156706bd906",
+    "picture": "petImages/avatar-1608622359631.jpg"
+  },
+  {
+    "dogName": "Snow",
+    "status": "adopt",
+    "height": "80",
+    "weight": "30",
+    "hypoallergenic": "no",
+    "dietary": "none",
+    "comment": "Such a lady",
+    "dogType": "husky",
+    "dogGender": "female",
+    "dogId": "14fcac80-0207-4ad6-a264-9fc23f50a462",
+    "picture": "petImages/avatar-1608629983830.jpg"
+  },
+  {
+    "dogName": "Polly",
+    "status": "foster",
+    "height": "60",
+    "weight": "25",
+    "hypoallergenic": "no",
+    "dietary": "none",
+    "comment": "Polly is such a cutie. very well behave specially with kids",
+    "dogType": "boxer",
+    "dogGender": "female",
+    "dogId": "85c1285e-8ea1-48cc-97e1-b9b7db765a85",
+    "picture": "petImages/avatar-1608637100939.jpg"
+  }
+]

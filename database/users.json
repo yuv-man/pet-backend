@@ -1,0 +1,18 @@
+[
+  {
+    "userId": "a1f85423-0adf-4343-ad23-3fbcb497c7aa",
+    "firstName": "yuval",
+    "lastName": "mandler",
+    "email": "yu@yu.com",
+    "phoneNumber": "+4553950142",
+    "password": "$2b$10$IYmPizKGkFVUdlUmU0TVF.QCb/hgZQCJpWn/OGQcvU.hZd4a9BWEq"
+  },
+  {
+    "userId": "9eae1fba-5f6b-4324-a08e-1698481c084e",
+    "firstName": "dia",
+    "lastName": "mama",
+    "email": "555@hhh.com",
+    "phoneNumber": "054215632",
+    "password": "$2b$10$M.G8sKXFuqmrfIAvqy3bO.xXkIzrFewqBBkKRloSVjtc2gFIJanaG"
+  }
+]
